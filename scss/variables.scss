@@ -1,0 +1,31 @@
+$main: #2A5ABC;
+$purple: #9065FD;
+$cookie: #D7E0EF;
+$bg-gradient: linear-gradient(268.37deg, #F3F3F8 6.73%, rgba(249, 249, 252, 0.4) 98.42%);
+$bg-color: #F2F5FF;
+$w-xs: 600px;
+$w-sm: 1000px;
+$w-md: 1264px;
+$w-lg: 1904px;
+
+@mixin title{
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 40px;
+  @media (max-width: $w-sm) {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}
+@mixin description{
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 34px;
+  @media (max-width: $w-sm) {
+    font-size: 16px;
+    line-height: 20px;
+  }
+}

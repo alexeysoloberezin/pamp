@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10.008" height="91.455" viewBox="0 0 10.008 91.455">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_3" data-name="Clip 3" d="M0,0H91.455V10.008H0Z" transform="translate(0 0.992)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="blue_arrow" transform="translate(-104 -22.34)">
+    <g id="Group_5_Copy_5" data-name="Group 5 Copy 5" transform="translate(115 22.34) rotate(90)">
+      <path id="Fill_1" data-name="Fill 1" d="M0,.5H0Z" transform="translate(0 6)" fill="#fefefe"/>
+      <g id="Group_4" data-name="Group 4">
+        <path id="Clip_3-2" data-name="Clip 3" d="M0,0H91.455V10.008H0Z" transform="translate(0 0.992)" fill="none"/>
+        <g id="Group_4-2" data-name="Group 4" clip-path="url(#clip-path)">
+          <path id="Fill_2" data-name="Fill 2" d="M87.364,10,.463,5.617A.573.573,0,0,1,0,4.98a.561.561,0,0,1,.462-.588L87.364,0c2.171-.109,4,2.04,4.088,4.8s-1.6,5.089-3.776,5.2c-.1,0-.212,0-.312,0" transform="translate(0 0.992)" fill="#343e70"/>
+        </g>
+      </g>
+    </g>
+    <circle id="Oval_Copy_27" data-name="Oval Copy 27" cx="1" cy="1" r="1" transform="translate(108 108.188)" fill="#fff"/>
+  </g>
+</svg>

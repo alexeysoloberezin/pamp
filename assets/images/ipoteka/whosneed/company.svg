@@ -1,0 +1,23 @@
+<svg width="103" height="86" viewBox="0 0 103 86" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_202_14742)">
+<circle cx="50.5" cy="54.5" r="11.5" fill="#7231E5"/>
+<path d="M69.5469 53.7266C69.5469 63.6936 61.467 71.7734 51.5 71.7734C41.533 71.7734 33.4531 63.6936 33.4531 53.7266C33.4531 43.7596 41.533 35.6797 51.5 35.6797C61.467 35.6797 69.5469 43.7596 69.5469 53.7266Z" stroke="black" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="640 15 15 15"/>
+<path d="M51.5 67.2617C44.0367 67.2617 37.9648 61.1898 37.9648 53.7266C37.9648 46.2633 44.0367 40.1914 51.5 40.1914C58.9633 40.1914 65.0352 46.2633 65.0352 53.7266C65.0352 61.1898 58.9633 67.2617 51.5 67.2617Z" stroke="black" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M72.1908 80.7969L60.6678 69.2739" stroke="black" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M67.0474 62.8943L78.5703 74.4172" stroke="black" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M71.9847 67.8317L65.6051 74.2113" stroke="black" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M78.5703 37.355V80.7969H24.4297V37.0979" stroke="black" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="520 15 510 15"/>
+<path d="M88.1953 38.0859L78.5703 29.8355V10.7148" stroke="black" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="150 15"/>
+<path d="M71.0508 10.7148V23.3913L51.3496 6.50391L14.5039 38.0859" stroke="black" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="420 15"/>
+<path d="M67.291 10.7148H82.3301" stroke="black" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M67.291 6.20312H82.3301" stroke="black" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M31.0349 63.2133C33.2802 68.0408 37.1858 71.9464 42.0134 74.1918" stroke="black" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="30 15 15 15"/>
+<path d="M60.9866 33.2614C65.8142 35.5067 69.7198 39.4123 71.9651 44.2399" stroke="black" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="30 15 15 15"/>
+<path d="M41.4238 55.6816H44.4316L46.3867 51.7715L51.5 59.291L55.5605 47.2598L58.5684 53.7266H61.5762" stroke="black" stroke-width="3" stroke-miterlimit="10"/>
+</g>
+<defs>
+<clipPath id="clip0_202_14742">
+<rect width="77" height="77" fill="white" transform="translate(13 5)"/>
+</clipPath>
+</defs>
+</svg>

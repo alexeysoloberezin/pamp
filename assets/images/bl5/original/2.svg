@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-25-Copy" transform="translate(-2.000000, 4.000000)">
+            <text id="РСА" font-family="Roboto-Black, Roboto" font-size="12.65" font-weight="700" fill="#7231E5">
+                <tspan x="15.9676606" y="32.0733133">РСА</tspan>
+            </text>
+            <circle id="Oval" stroke="#000000" stroke-width="1.5" cx="29.0435395" cy="27.5733133" r="17.5"></circle>
+            <path d="M42.1535395,40.9483133 L51.1535395,48.9483133" id="Line-4" stroke="#000000" stroke-width="1.265" stroke-linecap="round"></path>
+            <path d="M34.6044688,7.25931748 L51.706872,38.5637593 C53.560387,41.9564552 52.3126344,46.2093495 48.9199384,48.0628646 C47.8911895,48.624896 46.7377656,48.9195688 45.5655013,48.9198449 L11.3459979,48.9279048 C7.48000471,48.9288153 4.34525988,45.7955468 4.34434932,41.9295537 C4.3440728,40.7555728 4.63906431,39.6003769 5.20217947,38.5702641 L22.3192797,7.25776252 C24.1736536,3.86553589 28.4268636,2.61885987 31.8190902,4.4732337 C32.9951285,5.11611959 33.9618806,6.08311647 34.6044688,7.25931748 Z" id="Triangle-Copy-44" fill="#934AEF" opacity="0.06" transform="translate(28.456460, 27.926687) scale(-1, -1) rotate(23.000000) translate(-28.456460, -27.926687) "></path>
+        </g>
+    </g>
+</svg>

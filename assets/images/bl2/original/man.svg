@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>man</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="26.5" cy="27.5" r="10.5"></circle>
+        <filter x="-69.0%" y="-59.5%" width="238.1%" height="238.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.905740489   0 0 0 0 0.905740489   0 0 0 0 0.905740489  0 0 0 0.84642701 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="man" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(2.000000, 1.000000)">
+            <g id="Group-19" fill="#000000" fill-rule="nonzero" stroke="#000000" stroke-width="0.01">
+                <g id="noun_group_1502238">
+                    <path d="M0.791608392,27.9715385 L0.791608392,23.0353846 C0.791608392,18.5284615 4.0013986,14.6653846 8.28111888,13.8069231 C5.4993007,12.9484615 3.35944056,10.1584615 3.35944056,6.93923077 C3.35944056,3.07615385 6.56923077,0.0715384615 10.420979,0.0715384615 C14.2727273,0.0715384615 17.2685315,3.07615385 17.2685315,6.93923077 C17.2685315,10.1584615 15.3426573,12.9484615 12.3468531,13.8069231 C16.6265734,14.6653846 19.8363636,18.5284615 19.8363636,23.0353846 L19.8363636,27.9715385 C14.0587413,30.9761538 6.56923077,30.9761538 0.791608392,27.9715385 Z M18.1244755,26.8984615 L18.1244755,23.0353846 C18.1244755,18.7430769 14.7006993,15.3092308 10.420979,15.3092308 C6.14125874,15.3092308 2.5034965,18.7430769 2.5034965,23.0353846 L2.5034965,26.8984615 C6.9972028,28.83 13.8447552,28.83 18.1244755,26.8984615 Z M10.420979,1.78846154 C7.42517483,1.78846154 5.07132867,4.14923077 5.07132867,6.93923077 C5.07132867,9.94384615 7.42517483,12.3046154 10.420979,12.3046154 C13.2027972,12.3046154 15.5566434,9.94384615 15.5566434,6.93923077 C15.5566434,4.14923077 13.2027972,1.78846154 10.420979,1.78846154 Z" id="Shape"></path>
+                </g>
+            </g>
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-18" transform="translate(21.000000, 22.000000)" stroke="#DA0B0B" stroke-width="2">
+                <path d="M0,0 L11,11" id="Path-2-Copy-4"></path>
+                <path d="M-8.8817842e-16,-8.8817842e-16 L11,11" id="Path-2-Copy-5" transform="translate(5.500000, 5.500000) rotate(-270.000000) translate(-5.500000, -5.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

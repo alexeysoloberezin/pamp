@@ -1,0 +1,345 @@
+@font-face {
+  font-family: 'pampadu-icons';
+  src:
+    url('fonts/pampadu-icons.ttf?biivg0') format('truetype'),
+    url('fonts/pampadu-icons.woff?biivg0') format('woff'),
+    url('fonts/pampadu-icons.svg?biivg0#pampadu-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.ppd {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'pampadu-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ppd-recent:before {
+  content: "\e95e";
+}
+.ppd-expired:before {
+  content: "\e95f";
+}
+.ppd-contacts:before {
+  content: "\e95d";
+}
+.ppd-mite:before {
+  content: "\e957";
+}
+.ppd-muscles:before {
+  content: "\e958";
+}
+.ppd-luggage:before {
+  content: "\e959";
+}
+.ppd-house:before {
+  content: "\e95a";
+}
+.ppd-mortgage:before {
+  content: "\e95b";
+}
+.ppd-infinite:before {
+  content: "\e95c";
+}
+.ppd-truck:before {
+  content: "\e956";
+}
+.ppd-settings:before {
+  content: "\e954";
+}
+.ppd-covid:before {
+  content: "\e955";
+}
+.ppd-sum:before {
+  content: "\e94b";
+}
+.ppd-square-x:before {
+  content: "\e94c";
+}
+.ppd-square-check:before {
+  content: "\e94d";
+}
+.ppd-square-divide:before {
+  content: "\e94e";
+}
+.ppd-menu:before {
+  content: "\e936";
+}
+.ppd-calendar-warning:before {
+  content: "\e937";
+}
+.ppd-calendar:before {
+  content: "\e910";
+}
+.ppd-question:before {
+  content: "\e93b";
+}
+.ppd-exclamation:before {
+  content: "\e93c";
+}
+.ppd-lock:before {
+  content: "\e900";
+}
+.ppd-ellipsis-v:before {
+  content: "\e933";
+}
+.ppd-list:before {
+  content: "\e934";
+}
+.ppd-tiles:before {
+  content: "\e935";
+}
+.ppd-cog:before {
+  content: "\e942";
+}
+.ppd-bell:before {
+  content: "\e901";
+}
+.ppd-graph:before {
+  content: "\e92e";
+}
+.ppd-briefcase:before {
+  content: "\e951";
+}
+.ppd-wallet:before {
+  content: "\e950";
+}
+.ppd-safe:before {
+  content: "\e925";
+}
+.ppd-phone:before {
+  content: "\e928";
+}
+.ppd-edit:before {
+  content: "\e92b";
+}
+.ppd-edit-line:before {
+  content: "\e94f";
+}
+.ppd-mail:before {
+  content: "\e929";
+}
+.ppd-eye-crossed:before {
+  content: "\e932";
+}
+.ppd-eye:before {
+  content: "\e92f";
+}
+.ppd-map-marker:before {
+  content: "\e92a";
+}
+.ppd-trash:before {
+  content: "\e930";
+}
+.ppd-refresh:before {
+  content: "\e943";
+}
+.ppd-reload:before {
+  content: "\e921";
+}
+.ppd-copy-file:before {
+  content: "\e938";
+}
+.ppd-file:before {
+  content: "\e926";
+}
+.ppd-excel-file:before {
+  content: "\e923";
+}
+.ppd-img-file:before {
+  content: "\e90b";
+}
+.ppd-print:before {
+  content: "\e90d";
+}
+.ppd-logo .path1:before {
+  content: "\e944";
+  color: rgb(0, 96, 169);
+}
+.ppd-logo .path2:before {
+  content: "\e945";
+  margin-left: -1em;
+  color: rgb(171, 84, 255);
+}
+.ppd-logo .path3:before {
+  content: "\e946";
+  margin-left: -1em;
+  color: rgb(0, 32, 169);
+}
+.ppd-logo .path4:before {
+  content: "\e947";
+  margin-left: -1em;
+  color: rgb(69, 120, 255);
+}
+.ppd-logo .path5:before {
+  content: "\e948";
+  margin-left: -1em;
+  color: rgb(29, 75, 198);
+}
+.ppd-logo .path6:before {
+  content: "\e949";
+  margin-left: -1em;
+  color: rgb(83, 129, 254);
+}
+.ppd-logo .path7:before {
+  content: "\e94a";
+  margin-left: -1em;
+  color: rgb(0, 37, 135);
+}
+.ppd-yandex-money .path1:before {
+  content: "\e93d";
+  color: rgb(255, 207, 1);
+}
+.ppd-yandex-money .path2:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(211, 172, 6);
+}
+.ppd-yandex-money .path3:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.ppd-g-plus:before {
+  content: "\e907";
+}
+.ppd-fb:before {
+  content: "\e908";
+}
+.ppd-telegram:before {
+  content: "\e91d";
+}
+.ppd-search:before {
+  content: "\e90a";
+}
+.ppd-save:before {
+  content: "\e952";
+}
+.ppd-download:before {
+  content: "\e90c";
+}
+.ppd-upload:before {
+  content: "\e940";
+}
+.ppd-exit:before {
+  content: "\e915";
+}
+.ppd-agent:before {
+  content: "\e917";
+}
+.ppd-double-border:before {
+  content: "\e941";
+}
+.ppd-square-user:before {
+  content: "\e918";
+}
+.ppd-user:before {
+  content: "\e971";
+}
+.ppd-link:before {
+  content: "\e919";
+}
+.ppd-square-card:before {
+  content: "\e916";
+}
+.ppd-round-card:before {
+  content: "\e91a";
+}
+.ppd-monitor:before {
+  content: "\e91e";
+}
+.ppd-files:before {
+  content: "\e91f";
+}
+.ppd-clipboard:before {
+  content: "\e920";
+}
+.ppd-lightning:before {
+  content: "\e953";
+}
+.ppd-heartbeat:before {
+  content: "\e939";
+}
+.ppd-plus:before {
+  content: "\e909";
+}
+.ppd-arrow-down:before {
+  content: "\e91b";
+}
+.ppd-cross:before {
+  content: "\e905";
+}
+.ppd-chevron-down:before {
+  content: "\e902";
+}
+.ppd-checkmark-ugly:before {
+  content: "\e93a";
+}
+.ppd-cbox-checked:before {
+  content: "\e912";
+}
+.ppd-cbox-empty:before {
+  content: "\e90e";
+}
+.ppd-radio-on:before {
+  content: "\e924";
+}
+.ppd-alert:before {
+  content: "\e904";
+}
+.ppd-circle-alert:before {
+  content: "\e906";
+}
+.ppd-clock:before {
+  content: "\e922";
+}
+.ppd-circle-check:before {
+  content: "\e903";
+}
+.ppd-circle-exclamation:before {
+  content: "\e913";
+}
+.ppd-circle-question:before {
+  content: "\e914";
+}
+.ppd-circle-chevron-down:before {
+  content: "\e911";
+}
+.ppd-circle-crossed:before {
+  content: "\e90f";
+}
+.ppd-house-empty:before {
+  content: "\e931";
+}
+.ppd-dtp:before {
+  content: "\e927";
+}
+.ppd-worldwide:before {
+  content: "\e92d";
+}
+.ppd-car:before {
+  content: "\e91c";
+}
+.ppd-sportcar:before {
+  content: "\e92c";
+}

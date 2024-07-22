@@ -1,0 +1,3 @@
+# ignore blog blocks
+blocksBlog/*.vue
+store/article/*.js
